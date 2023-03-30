@@ -1,0 +1,70 @@
+{
+    "animes": [
+      {
+        "titulo": "Attack on Titan",
+        "genero": ["Acción", "Drama", "Fantasía", "Terror"],
+        "episodios": 75,
+        "estudio": "Wit Studio",
+        "director": "Tetsurō Araki",
+        "año": 2013,
+        "personajes_principales": [
+          {
+            "nombre": "Eren Jaeger",
+            "edad": 15,
+            "genero": "Masculino",
+            "doblaje": "Yuki Kaji"
+          }
+        ]
+      },
+      {
+        "titulo": "Fullmetal Alchemist: Brotherhood",
+        "genero": ["Acción", "Aventura", "Drama", "Fantasía"],
+        "episodios": 64,
+        "estudio": "Bones",
+        "director": "Yasuhiro Irie",
+        "año": 2009,
+        "personajes_principales": [
+          {
+            "nombre": "Edward Elric",
+            "edad": 15,
+            "genero": "Masculino",
+            "doblaje": "Romi Park"
+          },
+          {
+            "nombre": "Roy Mustang",
+            "edad": 29,
+            "genero": "Masculino",
+            "doblaje": "Shinichiro Miki"
+          }
+        ]
+      },
+      {
+        "titulo": "Death Note",
+        "genero": ["Misterio", "Psicológico", "Sobrenatural", "Thriller"],
+        "episodios": 37,
+        "estudio": "Madhouse",
+        "director": "Tetsurō Araki",
+        "año": 2006,
+        "personajes_principales": [
+          {
+            "nombre": "Light Yagami",
+            "edad": 17,
+            "genero": "Masculino",
+            "doblaje": "Mamoru Miyano"
+          },
+          {
+            "nombre": "M",
+            "edad": 24,
+            "genero": "Masculino",
+            "doblaje": "Kappei Yamaguchi"
+          },
+          {
+            "nombre": "Misa Amane",
+            "edad": 19,
+            "genero": "Femenino",
+            "doblaje": "Aya Hirano"
+          }
+        ]
+      }
+    ]
+  }
